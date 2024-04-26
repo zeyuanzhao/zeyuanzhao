@@ -1,3 +1,5 @@
+[![zeyuanzhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeyuanzhao)](https://github.com/zeyuanzhao/github-readme-stats)
+
 <!-- ### Hi there 👋 -->
 
 <!--
