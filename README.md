@@ -1,5 +1,5 @@
-[![zeyuanzhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeyuanzhao&show_icons=true&theme=algolia)](https://github.com/zeyuanzhao/zeyuanzhao)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyuanzhao&show_icons=true&theme=algolia&layout=compact)](https://github.com/zeyuanzhao/zeyuanzhao)
+[![zeyuanzhao's GitHub stats](https://github-readme-stats-nine-mu-35.vercel.app/api?username=zeyuanzhao&show_icons=true&theme=algolia)](https://github.com/zeyuanzhao/zeyuanzhao)
+[![Top Langs](https://github-readme-stats-nine-mu-35.vercel.app/api/top-langs/?username=zeyuanzhao&show_icons=true&theme=algolia&layout=compact)](https://github.com/zeyuanzhao/zeyuanzhao)
 
 <!-- ### Hi there 👋 -->
 
