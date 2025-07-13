@@ -1,10 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Alex%20Zhao%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=I%20make%20software.&descSize=20&descAlignY=55&descAlign=50)
 
+## About
+I make software and play the violin.
+
+Website: [azhao.dev](azhao.dev)
+
 ## Tech I've Used
 
-<div align="center">
+<details>
+  <summary>Show Icons</summary>
+  <div align="center">
   <img src="https://skillicons.dev/icons?i=anaconda,angular,apple,appwrite,arduino,atom,aws,azure,babel,bash,bootstrap,c,cpp,cloudflare,cmake,codepen,css,devto,discord,bots,discordjs,django,docker,eclipse,emotion,express,figma,firebase,flask,gcp,git,github,githubactions,gitlab,gmail,gradle,heroku,html,htmx,idea,instagram,java,js,jquery,latex,linkedin,linux,lua,md,maven,mongodb,mysql,nextjs,nodejs,notion,npm,pnpm,postgres,postman,powershell,pycharm,py,pytorch,raspberrypi,react,regex,replit,robloxstudio,sass,sqlite,stackoverflow,sublime,supabase,sklearn,selenium,svg,swift,tailwind,tensorflow,twitter,ts,ubuntu,vercel,vim,vscode,vscodium,windows,wordpress" width="500">
 </div>
+</details>
+
 
 ## GitHub Stats
 
