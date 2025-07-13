@@ -18,8 +18,8 @@ Website: [azhao.dev](azhao.dev)
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyuanzhao&show_icons=true&theme=algolia" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyuanzhao&show_icons=true&theme=algolia&layout=compact" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-nine-mu-35.vercel.app/api?username=zeyuanzhao&show_icons=true&theme=algolia" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-nine-mu-35.vercel.app/api/top-langs/?username=zeyuanzhao&show_icons=true&theme=algolia&layout=compact" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
