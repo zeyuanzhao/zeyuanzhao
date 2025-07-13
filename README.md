@@ -1,5 +1,18 @@
-[![zeyuanzhao's GitHub stats](https://github-readme-stats-nine-mu-35.vercel.app/api?username=zeyuanzhao&show_icons=true&theme=algolia)](https://github.com/zeyuanzhao/zeyuanzhao)
-[![Top Langs](https://github-readme-stats-nine-mu-35.vercel.app/api/top-langs/?username=zeyuanzhao&show_icons=true&theme=algolia&layout=compact)](https://github.com/zeyuanzhao/zeyuanzhao)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Alex%20Zhao%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=I%20make%20software.&descSize=20&descAlignY=55&descAlign=50)
+
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=💻%20Tech%20I%27ve%20Used&fontSize=40&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,angular,apple,appwrite,arduino,atom,aws,azure,babel,bash,bootstrap,c,cpp,cloudflare,cmake,codepen,css,devto,discord,bots,discordjs,django,docker,eclipse,emotion,express,figma,firebase,flask,gcp,git,github,githubactions,gitlab,gmail,gradle,heroku,html,htmx,idea,instagram,java,js,jquery,latex,linkedin,linux,lua,md,maven,mongodb,mysql,nextjs,nodejs,notion,npm,pnpm,postgres,postman,powershell,pycharm,py,pytorch,raspberrypi,react,regex,replit,robloxstudio,sass,sqlite,stackoverflow,sublime,supabase,sklearn,selenium,svg,swift,tailwind,tensorflow,twitter,ts,ubuntu,vercel,vim,vscode,vscodium,windows,wordpress)](https://skillicons.dev)
+
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=📊%20GitHub%20Stats&fontSize=40&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyuanzhao&show_icons=true&theme=algolia" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyuanzhao&show_icons=true&theme=algolia&layout=compact" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyuanzhao&theme=algolia" alt="GitHub Streak" height="170"/>
+</div>
 
 <!-- ### Hi there 👋 -->
 
